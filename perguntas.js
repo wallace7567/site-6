@@ -1,23 +1,23 @@
 criaCartao(
-    'Programação',
+    'filmes',
     'Qual e o filme mais famoso do mundo?',
     'O filme mais famoso do mundo, em termos de bilheteria, é Avatar'
 )
 
 criaCartao(
     'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Qual e o maior pais do mundo?',
+    'Russia'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'matematica',
+    'quanto e 150+150?',
+    '300'
 )
 
 criaCartao(
     'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Como se diz bom dia em Inglês?',
+    'bom dia em ingles é good morning'
 )
