@@ -1,7 +1,7 @@
 criaCartao(
     'Programação',
     'Qual e o filme mais famoso do mundo?',
-    'O Python é uma linguagem de programação'
+    'O filme mais famoso do mundo, em termos de bilheteria, é Avatar'
 )
 
 criaCartao(
